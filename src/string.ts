@@ -70,3 +70,4 @@ export function stringToBinary(str: string): string {
 export function binaryToString(binary: string): string {
     return binary.split(' ').map(b => String.fromCharCode(parseInt(b, 2))).join('');
 }
+

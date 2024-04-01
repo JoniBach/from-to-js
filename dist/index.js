@@ -21,3 +21,4 @@ __exportStar(require("./date"), exports);
 __exportStar(require("./numeric"), exports);
 __exportStar(require("./siUnits"), exports);
 __exportStar(require("./string"), exports);
+__exportStar(require("./function"), exports);

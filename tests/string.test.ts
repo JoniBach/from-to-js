@@ -10,7 +10,7 @@ import {
     stringToHex,
     hexToString,
     stringToBinary,
-    binaryToString
+    binaryToString,
 } from '../src/string';
 
 // Base64 encoding and decoding (Node.js)
@@ -52,3 +52,4 @@ test('stringToBinary and binaryToString conversion', () => {
     const backToString = binaryToString(binaryString);
     assert.strictEqual(backToString, originalString);
 });
+
