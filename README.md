@@ -7,7 +7,8 @@ Convert is a JavaScript library that provides conversion utilities for various d
 
 ## Documentation
 
-Check out the [official demo](https://jonibach.github.io/convert-demo/) for detailed usage instructions and examples.
+Check out the [official demo](https://www.jonibach.com/convert) for detailed usage instructions and examples.
+
 
 ## Installation
 To install the package, run:
